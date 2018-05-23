@@ -1,2 +1,2 @@
 # Network_effect
-Refer to Instruction manual and Project report document.
+Refer to the instruction manual and the project report document.
